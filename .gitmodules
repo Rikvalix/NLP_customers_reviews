@@ -1,0 +1,3 @@
+[submodule "fake-review-dataset"]
+	path = fake-review-dataset
+	url = https://huggingface.co/datasets/debojit01/fake-review-dataset
