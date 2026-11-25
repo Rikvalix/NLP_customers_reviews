@@ -7,7 +7,3 @@
 /dataSources/
 /dataSources.local.xml
 .idea/
-data/df_filtre/*
-data/prediction/*
-data/train_test/*
-data/validation/*
