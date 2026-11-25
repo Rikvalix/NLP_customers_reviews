@@ -1,6 +1,7 @@
 # NLP for Customer Review Analysis - Academic project
 
 Classification and regression on the [Fake Review dataset](https://huggingface.co/datasets/debojit01/fake-review-dataset/tree/main) (40,400 reviews) to predict a review's rating (1–5) from its text.
+More details on: https://portfolio.noknok.dev/projects/analyse_automatique_de_donnees
 
 ## Approach
 
